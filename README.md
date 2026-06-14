@@ -18,6 +18,13 @@ This project is a digital portal for farmers and buyers that is built using PHP.
 ### ScreenShots:
 
 
+<img width="1366" height="768" alt="WhatsApp Image 2026-04-25 at 3 22 21 PM" src="https://github.com/user-attachments/assets/f1cdf567-fb19-4eb0-9caa-22535356e73b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d91a20cb-5685-4f6c-b1e9-7c3241f8ce7a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9329817d-6028-4cbe-a112-c4d89d6dccfb" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0c2cdd1-60ff-4230-b489-8bb596cbf9fd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/96505b6a-bf72-4a43-9b96-d40960c5d62c" />
+
 
 
 ### Requirements:
